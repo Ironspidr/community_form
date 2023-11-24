@@ -1,0 +1,9 @@
+{
+  
+  "git.enabled": true,
+  
+  "git.path": "E:/program files/Git/bin/git.exe",
+  "gitlens.proxy": {
+
+  }
+}
